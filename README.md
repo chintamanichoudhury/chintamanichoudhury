@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @chintamanichoudhury
+- 👀 I’m a Web Developer | FullStack Developer | Frontend Developer | React Developer
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... chintamanichoudhury2@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+![cover_photo](https://github.com/chintamanichoudhury/chintamanichoudhury/assets/152841395/6d11e92b-b2a5-40b0-8344-7fd3dcbdaff8)
+
+<!---
+chintamanichoudhury/chintamanichoudhury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
